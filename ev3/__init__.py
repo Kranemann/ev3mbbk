@@ -1,4 +1,3 @@
-#!/usr/bin/bash python3
 from pybricks.hubs import EV3Brick
 from pybricks.ev3devices import *
 from pybricks.parameters import *
